@@ -3,7 +3,7 @@
   font-family: "Europe Normal";
   font-style: normal;
   font-weight: 400;
-  src: url("../fonts/Europe.ttf");
+  src: url("../fonts/6509.woff") format("woff");
 }
 body {
   margin: 0;
