@@ -1,5 +1,10 @@
 @charset "UTF-8";
-@import url(https://allfont.ru/allfont.css?fonts=europe-normal);
+@font-face {
+  font-family: "Europe Normal";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Europe.ttf");
+}
 body {
   margin: 0;
   padding: 0;
